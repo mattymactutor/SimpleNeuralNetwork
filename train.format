@@ -1,0 +1,7 @@
+#num input nodes
+#num output nodes
+#num hidden nodes
+#number of training samples
+#num classes
+#list of classes comma separated
+#input node data with the target output as the last value on that line

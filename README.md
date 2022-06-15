@@ -8,6 +8,7 @@ train.format will tell you how to setup the training data to create a model.
 
 EXAMPLES: 
 7seg : conversion from bits on 7 segment display to binary numbers.
+
 RGB: predict red green or blue based on pixel value (incredibly trivial)
 
 

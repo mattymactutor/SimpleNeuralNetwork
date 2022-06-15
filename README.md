@@ -1,7 +1,7 @@
 # SimpleNeuralNetwork
 C++ : This is a simple neural network used for small scale machine learning. This can be used on a microcontroller.
 
-#Details
+# Details
 This "NeuralNetwork" will use a ".train" file with training data to compute the output weights for a model. The output model is stored in a ".mc" file. This file can be loaded by any other program to use the trained model.
 
 train.format will tell you how to setup the training data to create a model.
